@@ -1,0 +1,2 @@
+# datasqrl-starter
+exploring datasqrl
